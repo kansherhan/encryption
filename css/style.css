@@ -5,13 +5,13 @@
     z-index: 999;
     
     width: 100vw;
+
+    background-color: #fff;
 }
 
 .header-content {
     display: flex;
     justify-content: space-between;
-
-    background-color: #fff;
 }
 
 main.content {
