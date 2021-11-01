@@ -53,6 +53,8 @@ main.content {
 .footer-link {
     color: #000;
     background-color: #fff;
+
+    text-decoration: none;
 }
 
 @media (max-width: 576px) {
